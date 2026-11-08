@@ -1,6 +1,6 @@
 # firewall.py
 
-A simple host-based firewall manager for windows 11, built on top of
+A simple host-based firewall manager for kali linux, built on top of
 `iptables`. Default-deny inbound, with an allow-list you control, plus
 a watch mode that flags IPs hammering your blocked ports (basic
 scan / brute-force detection).
